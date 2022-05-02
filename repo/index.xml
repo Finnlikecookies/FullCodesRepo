@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="FullCodesRepository" pubkey="30820503308202eba003020102020448078449300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3232303530323135343334325a170d3439303931373135343334325a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a02820201009404e861bc08bee9798f3070c7082edc4d1959388b8c5b85338ff872e891f6be73673ee1af8956096b6930716b67b07e6305a6fe92d966205cab4ad31efa04b11833974ac50386f9ca5603685d5ce0fc551c18ca8805bb0be411b6317c0639763b7245dfebfbcc5ed0a36ce1488fde852b438e4014ef7e015cb77d4bf108d31238ef0ba47b0a6be1b73d41bea74d9a1fc5b218ccf6d203cfb721ecf437a7037adf978f2ef43b39660a1f0f15313f1f53ad5fc69a38a1d7ddcfb73e7ec0023bd76a9c19a6967395d590270cd8c7f0c0b1da295313cd5291f88066a0a027abd19a139533cd0b9efd9a6822e4ab7417ad56f6588abeb4f2da30c9f2e9ca5f6869d8e21127adf912cf3dfeac4b35739e61e3b4755daebf8d407ba2bdba38341c2c7a757f2a78ed87abd02244c13d5cc8fa4bcb927a4ecbecfa326ddb34edc02fb836f3c4f7d477da73a1f36921f17c5bcdd7b5e0c738081a8e555f2418fee3b8c96981ee240340aaffb5fee6edd090baa479280697ba9e9da7d0e961a13bcaef3c1d6abe4a8e02b98552b2a091cc8135117374fcfcac1c3869f01e8da8599ef87fb41b66c1556e7b2fe776eabc84769b8f4adde5a99d8535c57e6872a8879f9b3d4559eb088ac080bdc68a5257a068b757e1fef5a3d317ac3b21e5906ac5a5ac4b01177b3237356e99d12a9a6eef87da0c90f4a471ef03775c5d306a80a71c3f62430203010001a321301f301d0603551d0e04160414602467db2ad4bed65a91188e4af5794bc3d7406d300d06092a864886f70d01010b05000382020100281d6f7c429314ba6837f9f5304258dc76fb9031ee16d8c3a8711535c5a62612a45521f447529e366420d3b4d16cf998770849737fa5deef5cf9e30f56b7ccac30facae404e2a41230c0635e5c2c511eaeb0191d0f139ac7e3bcdc8f7d1fad2bd875752a919671e80a770c71863affb33dbc9187567b3d2b4d0362057c42d7afc980e902e7a0c440153b89ee624b491d4eeb2dc9c9c7c1c45811af9432eacb94965f3997593cf7de1739e54ce8bb466b4853418f9b397a842f246d91ed0f6f52c550012ff4548808f0f1be05911c2aeb7612905c395e1863e2078b80194ba857a14acbc37bc1f364560c8cadb83ffc81d52bf0652d1d725fcbe641e86b00873acc041d428e88cbcf2724a080b58904d6f1e4ccede2f9174860306ca6c9e99234f118f18f767cdeab54038b23bcc384c1df6c9c7163ad7edefda7a9f755c6331108fbc1b2900f10dac2cf0c74aac0a10fcc21e0499f0de0fae869d8881f8edafdee520c4d8eb6736214e6d8307765e55cd7d0dbed8a028d15188f9a492881ce6aa54efa98ad197419c1bbfc696320d01e73d3c42186d2e7908b0aaca1fe25b424c097979b34a60fb667ff3288214a11a49c928c6bd98fb6bae044a1062c91ee40da2eae42bb6788c74523a6353e48b8928b0c48316d19e5a3f3c194516d19326c5a0b1de420bb88acd1ac63952c20de161089d1c7f5bbb693ebddeb655d70c944" timestamp="1651506589" url="https://raw.githubusercontent.com/Finnlikecookies/FullCodesRepo/master/fdroid/repo" version="21">
+		<description>A repository with my apps</description>
+		<mirror>https://raw.githubusercontent.com/Finnlikecookies/FullCodesRepo/master/fdroid/repo/repo</mirror>
+		<mirror>https://raw.githubusercontent.com/Finnlikecookies/FullCodesRepo/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="at.FullCodes.Quixx">
+		<id>at.FullCodes.Quixx</id>
+		<added>2022-05-02</added>
+		<lastupdated>2022-05-02</lastupdated>
+		<name>Quixx</name>
+		<summary></summary>
+		<icon>at.FullCodes.Quixx.1.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>Quixx.2.apk</apkname>
+			<hash type="sha256">60a4be3dc216179077bc62a3f1db14504846c5076b3390e0766a65c293342f58</hash>
+			<size>25013315</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-05-02</added>
+			<sig>d5be5a9bd2ea229d21b2bff058064d35</sig>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="at.Fnimj.Tubeball">
+		<id>at.Fnimj.Tubeball</id>
+		<added>2022-05-02</added>
+		<lastupdated>2022-05-02</lastupdated>
+		<name>Tubeball</name>
+		<summary></summary>
+		<icon>at.Fnimj.Tubeball.1.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>0.0.1</version>
+			<versioncode>1</versioncode>
+			<apkname>Tubeball.1.apk</apkname>
+			<hash type="sha256">dfd86a634cb0c1dd782335a7b1ea9c07196f4e1843a919ce72e47ea12bdb9d60</hash>
+			<size>23347516</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-05-02</added>
+			<sig>9a7e95e8e58fdf0c5a112163569b652a</sig>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="at.FullCodes.TurtleAdventurer">
+		<id>at.FullCodes.TurtleAdventurer</id>
+		<added>2022-05-02</added>
+		<lastupdated>2022-05-02</lastupdated>
+		<name>Turtle Adventurer</name>
+		<summary></summary>
+		<icon>at.FullCodes.TurtleAdventurer.7.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>7</marketvercode>
+		<package>
+			<version>0.00.07alpha</version>
+			<versioncode>7</versioncode>
+			<apkname>TurtleAdventurer.7.apk</apkname>
+			<hash type="sha256">be5c3be93028d73c64330442577f812ef72245c7dd3f9ed44ebc043ece5e5459</hash>
+			<size>31280276</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-05-02</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>CAMERA,INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.06alpha</version>
+			<versioncode>6</versioncode>
+			<apkname>TurtleAdventurer.6.apk</apkname>
+			<hash type="sha256">6f0bfff37f4eef49a5d2ad1a3c559b4303826f735abc58634d9e069490b8a7df</hash>
+			<size>29748372</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-05-02</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.05alpha</version>
+			<versioncode>5</versioncode>
+			<apkname>TurtleAdventurer.5.apk</apkname>
+			<hash type="sha256">fc60b6d7376c266d2301dab755cef7380acc0750d35b9470eaa1b35620d89f7f</hash>
+			<size>29781140</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-05-02</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.04alpha</version>
+			<versioncode>4</versioncode>
+			<apkname>TurtleAdventurer.4.apk</apkname>
+			<hash type="sha256">15c269d5e878e9d2976451611b792d24ce3c3a67a4101787bf35c6af52657b64</hash>
+			<size>29719700</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-05-02</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.03alpha</version>
+			<versioncode>3</versioncode>
+			<apkname>TurtleAdventurer.3.apk</apkname>
+			<hash type="sha256">e6a12e9e89a20f3fc65c1c139b7c824134c3f60f82ce5f1fa2fddce886dc0ea4</hash>
+			<size>29727892</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-05-02</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.02alpha</version>
+			<versioncode>2</versioncode>
+			<apkname>TurtleAdventurer.2.apk</apkname>
+			<hash type="sha256">81878c68a85ee6b57985afc3ad8e400f01729e5c199c15b11b422c65cdcffe78</hash>
+			<size>29727892</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-05-02</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.00.01alpha</version>
+			<versioncode>1</versioncode>
+			<apkname>TurtleAdventurer.1.apk</apkname>
+			<hash type="sha256">d64353360bf33897bc099b92716de9e2005034caedd2efad269d4a44642282f8</hash>
+			<size>29678740</size>
+			<sdkver>22</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-05-02</added>
+			<sig>d382996a9abdc4270686dcbbfef02aa7</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+</fdroid>
